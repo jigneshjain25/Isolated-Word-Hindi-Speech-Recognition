@@ -1,0 +1,12 @@
+10
+# words present in no particular order
+एक
+दो
+तीन
+चार
+पांच
+छ:
+सात
+आठ
+नो
+दस

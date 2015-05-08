@@ -1,0 +1,12 @@
+10
+# words present in no particular order
+आम
+अमीर
+अनार
+अंगूर
+गाना
+जीवन
+खाना
+पानी
+पढ़ाई
+शब्द

@@ -1,0 +1,12 @@
+10
+# words present in no particular order
+किताब
+भारत
+लड़का
+जीत
+आदमी
+गरीब
+हिंदी
+घर
+कहानी
+खेल
